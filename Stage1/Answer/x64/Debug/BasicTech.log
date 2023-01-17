@@ -1,0 +1,18 @@
+﻿  main.c
+D:\Source\repos\BasicTech\BasicTech\Utility.h(9,1): warning C4005: “T”: 宏重定义
+D:\Source\repos\BasicTech\BasicTech\Utility.h(7,1): message : 参见“T”的前一个定义
+D:\Source\repos\BasicTech\BasicTech\Utility.h(11,1): warning C4005: “T”: 宏重定义
+D:\Source\repos\BasicTech\BasicTech\Utility.h(9,1): message : 参见“T”的前一个定义
+D:\Source\repos\BasicTech\BasicTech\Utility.h(13,1): warning C4005: “T”: 宏重定义
+D:\Source\repos\BasicTech\BasicTech\Utility.h(11,1): message : 参见“T”的前一个定义
+D:\Source\repos\BasicTech\BasicTech\Utility.h(15,1): warning C4005: “T”: 宏重定义
+D:\Source\repos\BasicTech\BasicTech\Utility.h(13,1): message : 参见“T”的前一个定义
+D:\Source\repos\BasicTech\BasicTech\Utility.h(19,1): warning C4005: “T”: 宏重定义
+D:\Source\repos\BasicTech\BasicTech\Utility.h(15,1): message : 参见“T”的前一个定义
+D:\Source\repos\BasicTech\BasicTech\Utility.h(21,1): warning C4005: “T”: 宏重定义
+D:\Source\repos\BasicTech\BasicTech\Utility.h(19,1): message : 参见“T”的前一个定义
+D:\Source\repos\BasicTech\BasicTech\Utility.h(24,1): warning C4005: “T”: 宏重定义
+D:\Source\repos\BasicTech\BasicTech\Utility.h(21,1): message : 参见“T”的前一个定义
+D:\Source\repos\BasicTech\BasicTech\Utility.h(26,1): warning C4005: “T”: 宏重定义
+D:\Source\repos\BasicTech\BasicTech\Utility.h(24,1): message : 参见“T”的前一个定义
+  BasicTech.vcxproj -> D:\Source\repos\BasicTech\x64\Debug\BasicTech.exe
